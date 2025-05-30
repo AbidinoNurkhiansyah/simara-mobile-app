@@ -13,7 +13,7 @@ class JadwalProvider with ChangeNotifier {
   List<Jadwal> get jadwalUser => _jadwalUser;
 
   Future<void> fetchJadwal() async {
-    final url = 'https://simara.my.id/api_simara/get_jadwal.php';
+    final url = 'http://localhost/api_simara/get_jadwal.php';
     final response = await http.get(Uri.parse(url));
     print('API Response: ${response.body}');
     if (response.statusCode == 200) {
@@ -27,7 +27,7 @@ class JadwalProvider with ChangeNotifier {
     try {
       print('Fetching bookings for user: $idUser');
       final url =
-          'https://simara.my.id/api_simara/get_pemesanan.php?id_user=$idUser';
+          'http://localhost/api_simara/get_pemesanan.php?id_user=$idUser';
       final response = await http.get(Uri.parse(url));
 
       print('Response status: ${response.statusCode}');
@@ -92,7 +92,7 @@ class JadwalProvider with ChangeNotifier {
 
       // Lanjutkan dengan proses pemesanan
       final response = await http.post(
-        Uri.parse('https://simara.my.id/api_simara/pemesanan.php'),
+        Uri.parse('http://localhost/api_simara/pemesanan.php'),
         body: {'id_user': idUser.toString(), 'id_jadwal': idJadwal.toString()},
       );
       final data = jsonDecode(response.body);
@@ -122,7 +122,7 @@ class JadwalProvider with ChangeNotifier {
   }
 
   Future<void> cancelSesi(int idUser, int idPemesanan) async {
-    final url = 'https://simara.my.id/api_simara/batal_pemesanan.php';
+    final url = 'http://localhost/api_simara/batal_pemesanan.php';
 
     try {
       print(
