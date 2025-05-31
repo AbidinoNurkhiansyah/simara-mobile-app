@@ -1,16 +1,8 @@
-# simara_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/23acc46f-ad09-4524-a070-ee995296d217)
+![Image](https://github.com/user-attachments/assets/52d32ec9-148a-4c7a-a0f6-1a7933be78a0)
+![Image](https://github.com/user-attachments/assets/9ada2224-a1da-43f0-8f72-0c776214e52c)
+![Image](https://github.com/user-attachments/assets/c87f88f2-aa7c-468d-8b94-24f9a6156186)
+![Image](https://github.com/user-attachments/assets/0b579e97-207e-4266-a2ee-814bf52002ab)
+![Image](https://github.com/user-attachments/assets/74c786e6-338a-4b0d-b3cc-819e99687eab)
+![Image](https://github.com/user-attachments/assets/e8377c82-5f67-45a1-84d8-7dd0d33ee15c)
+![Image](https://github.com/user-attachments/assets/0f997b60-d627-4610-97bb-6a4f8a98e62c)
