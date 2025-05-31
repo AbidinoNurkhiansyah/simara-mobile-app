@@ -3,7 +3,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 
 class AuthController {
-  final String baseUrl = "http://localhost/api_simara";
+  final String baseUrl = "http://20.60.20.11/api_simara";
 
   Future<bool> checkServerConnection() async {
     try {

@@ -25,7 +25,7 @@ class MyAuthProvider with ChangeNotifier {
   Future<bool> login(String email, String password) async {
     try {
       final response = await http.post(
-        Uri.parse('http://localhost/api_simara/login.php'),
+        Uri.parse('http://20.60.20.11/api_simara/login.php'),
         headers: {'Content-Type': 'application/json'},
         body: json.encode({'email': email, 'password': password}),
       );

@@ -7,7 +7,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../models/user_model.dart';
 
 class UserProvider with ChangeNotifier {
-  final String baseUrl = "http://localhost/api_simara";
+  final String baseUrl = "http://20.60.20.11/api_simara";
   User? _user;
   bool _isLoading = false;
   List<int> jadwalYangSudahDipesan = [];
@@ -112,7 +112,7 @@ class UserProvider with ChangeNotifier {
   Future<void> fetchPemesananUser(int idUser) async {
     final response = await http.get(
       Uri.parse(
-        'http://localhost/api_simara/get_pemesanan.php?id_user=$idUser',
+        'http://20.60.20.11/api_simara/get_pemesanan.php?id_user=$idUser',
       ),
     );
     final data = jsonDecode(response.body);

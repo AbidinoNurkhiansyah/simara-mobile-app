@@ -16,7 +16,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await initializeDateFormatting('id_ID', null);
   // Initialize notification service
-  await NotificationService().init();
+  // await NotificationService().init();
 
   final authProvider = MyAuthProvider();
   await authProvider.loadUserData();
