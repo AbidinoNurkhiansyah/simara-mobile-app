@@ -7,9 +7,8 @@
 ## 🚀 Fitur Utama
 
 - 🔐 **Login & Register**
-  - Verifikasi kode dan lupa password.
 - 👤 **Profil Pengguna**
-  - Menampilkan data Nama, Domisili, dan No. Telepon dari database.
+  - Menampilkan data email, Nama, Domisili, dan No. Telepon dari database.
 - 📅 **Pemesanan Jadwal Suscatin**
   - Pilih hari & sesi konsultasi:
     - Sesi Pagi: 09.00 – 11.00
