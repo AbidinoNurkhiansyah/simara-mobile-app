@@ -1,6 +1,6 @@
 # 📱 Simara Mobile
 
-**Simara (Sistem Manajemen Reservasi Suscatin)** adalah aplikasi mobile yang dirancang untuk membantu calon pengantin melakukan pemesanan sesi *Suscatin* (Kursus Calon Pengantin) secara online melalui KUA.
+**Simara (Sistem Manajemen Data religi & Agama)** adalah aplikasi mobile yang dirancang untuk membantu calon pengantin melakukan pemesanan sesi *Suscatin* (Kursus Calon Pengantin) secara online melalui Aplikasi Mobile.
 
 ---
 
@@ -21,12 +21,12 @@
 
 ## 🧰 Teknologi yang Digunakan
 
-| Layer       | Teknologi                    |
-|-------------|------------------------------|
-| Frontend    | Flutter (MVC + Provider)     |
-| Backend     | PHP (RESTful API)            |
-| Database    | MySQL                        |
-| State Mgmt  | Provider (Flutter)           |
+| Layer             | Teknologi                    |
+|-------------------|------------------------------|
+| Frontend          | Flutter (MVC + Provider)     |
+| Backend           | PHP (RESTful API)            |
+| Database          | MySQL                        |
+| State Management  | Provider (Flutter)           |
 
 ---
 
