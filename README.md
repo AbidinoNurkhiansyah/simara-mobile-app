@@ -1,6 +1,8 @@
 # 📱 Simara Mobile
 
-**Simara (Sistem Manajemen Data religi & Agama)** adalah aplikasi mobile yang dirancang untuk membantu calon pengantin melakukan pemesanan sesi *Suscatin* (Kursus Calon Pengantin) secara online melalui Aplikasi Mobile.
+# 📱 Simara Mobile
+
+**Simara (Sistem Manajemen Data Religi & Agama)** adalah aplikasi mobile yang dirancang untuk membantu calon pengantin melakukan pemesanan sesi *Suscatin* (Kursus Calon Pengantin) secara online melalui Aplikasi Mobile.
 
 ---
 
@@ -21,14 +23,27 @@
 
 ## 🧰 Teknologi yang Digunakan
 
+> Built with the tools and technologies:
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-FC6D26?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-C62828?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+## 🧩 Arsitektur
+
 | Layer             | Teknologi                    |
 |-------------------|------------------------------|
 | Frontend          | Flutter (MVC + Provider)     |
 | Backend           | PHP (RESTful API)            |
 | Database          | MySQL                        |
-| State Management  | Provider (Flutter)           |
+| State Management  | Provider                     |
 
----
 
 
 <p float="left">
