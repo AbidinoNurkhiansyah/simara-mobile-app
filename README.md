@@ -1,7 +1,5 @@
 # 📱 Simara Mobile
 
-# 📱 Simara Mobile
-
 **Simara (Sistem Manajemen Data Religi & Agama)** adalah aplikasi mobile yang dirancang untuk membantu calon pengantin melakukan pemesanan sesi *Suscatin* (Kursus Calon Pengantin) secara online melalui Aplikasi Mobile.
 
 ---
