@@ -20,9 +20,13 @@ class ProfileProvider extends ChangeNotifier {
     try {
       print('🔄 Fetching profile for user ID: $idUser');
       final response = await http.get(
+<<<<<<< HEAD
         Uri.parse(
           'https://simara.my.id/api_simara/get_user.php?id_user=$idUser',
         ),
+=======
+        Uri.parse('http://20.60.20.11/api_simara/get_user.php?id_user=$idUser'),
+>>>>>>> 7050fa841f57996f4de8349b6d8e113339461c91
       );
 
       print('🔍 Response Status: ${response.statusCode}');
@@ -58,7 +62,11 @@ class ProfileProvider extends ChangeNotifier {
 
     try {
       final response = await http.put(
+<<<<<<< HEAD
         Uri.parse('https://simara.my.id/api_simara/profile.php'),
+=======
+        Uri.parse('http://20.60.20.11/api_simara/profile.php'),
+>>>>>>> 7050fa841f57996f4de8349b6d8e113339461c91
         body: json.encode(data),
         headers: {'Content-Type': 'application/json'},
       );

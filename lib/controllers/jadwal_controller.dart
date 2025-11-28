@@ -80,7 +80,11 @@ class JadwalController {
   ) async {
     try {
       final response = await http.post(
+<<<<<<< HEAD
         Uri.parse('https://simara.my.id/api_simara/batal_pemesanan.php'),
+=======
+        Uri.parse('http://20.60.20.11/api_simara/batal_pemesanan.php'),
+>>>>>>> 7050fa841f57996f4de8349b6d8e113339461c91
         body: {
           'id_user': idUser.toString(),
           'id_pemesanan': idPemesanan.toString(),

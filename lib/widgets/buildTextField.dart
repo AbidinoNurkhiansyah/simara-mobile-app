@@ -31,12 +31,15 @@ Widget buildTextField({
             decoration: ThemeHelper()
                 .textInputDecoration(label, hint)
                 .copyWith(
+<<<<<<< HEAD
                   label: Padding(
                     padding: const EdgeInsets.only(
                       left: 10,
                     ), // atur sesuai kebutuhan
                     child: Text(label),
                   ),
+=======
+>>>>>>> 7050fa841f57996f4de8349b6d8e113339461c91
                   prefixIcon: prefixIcon != null ? Icon(prefixIcon) : null,
                   suffixIcon: suffixIcon,
                   contentPadding: const EdgeInsets.only(
