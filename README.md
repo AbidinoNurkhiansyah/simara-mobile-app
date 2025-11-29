@@ -5,16 +5,7 @@
 
 ### 🧩 Mobile UI Architecture
 
-<p float="left">
-  <img width="200" alt="image" src="https://github.com/user-attachments/assets/ed945873-685b-4f4c-adb3-8ced1397cc22" />
-  <img width="240" alt="image" src="https://github.com/user-attachments/assets/39ef0b41-6353-4b9b-bedc-7ac0b2e92aa0" />
-  <img width="240" alt="image" src="https://github.com/user-attachments/assets/e1c646c5-8d99-44bd-a558-de67a3c94af6" />
-  <img width="240" alt="image" src="https://github.com/user-attachments/assets/038abe58-029c-416b-acbe-07c692245a60" />
-  <img width="240" alt="image" src="https://github.com/user-attachments/assets/30139b8f-2e7a-4b69-9ba0-4531259f6f7a" />
-  <img width="240" alt="image" src="https://github.com/user-attachments/assets/9d0ba4a5-0b10-43dc-8032-9eb0c0c84441" />
-  <img width="200" alt="image" src="https://github.com/user-attachments/assets/10704aa8-cbf6-4206-b3d6-a205872ec2fd" />
-<img width="240"  alt="image" src="https://github.com/user-attachments/assets/4764a9e1-9bbd-4413-917a-c5f3a72d10c3" />
-</p>
+<img width="2056" height="auto" alt="image" src="https://github.com/user-attachments/assets/a4528821-9446-4c4d-968c-039ee310617b" />
 
 ### 🚀 Main Feature
 
