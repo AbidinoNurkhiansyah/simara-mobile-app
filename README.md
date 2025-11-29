@@ -21,7 +21,7 @@
 - 📃 **Fecth Status & Detail Schedule**
   - View booked schedules along with their current status
 
-### 🧰 Teknologi yang Digunakan
+### 🧰 Tech Stack
 
 > Built with the tools and technologies:
 
