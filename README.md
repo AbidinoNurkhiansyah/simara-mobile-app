@@ -66,7 +66,7 @@ Jalankan perintah berikut di terminal:
 3.  Clone the API Backend repo
    
    ```bash
-   git clone https://github.com/AbidinoNurkhiansyah/simara-mobile-app.git
+   git clone https://github.com/AbidinoNurkhiansyah/simara-api.git
 ```
 4. *Akses API via Browser*
    Default URL:
